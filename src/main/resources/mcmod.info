@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "24 different kinds of stones with slabs, stairs, walls, and buttons",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "http://tinyurl.com/qceqq4g",
+		"updateUrl": "",
+		"authorList": ["Zeno410"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}
